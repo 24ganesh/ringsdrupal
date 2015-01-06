@@ -1,17 +1,18 @@
 h1 {
   color: #a67023;
 }
-#join-my-strings {
+#join-my-stirrings {
   background: url("http://ringsdrupal.com/sites/default/files/btn-join-mystirrings.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
   border: 0 none;
   display: block;
-  height: 23px;
-  margin-top: -120px;
+  float: right;
+  height: 24px;
+  margin-right: 527px;
+  margin-top: -35px;
   overflow: hidden;
   padding: 0;
   text-indent: -3000px;
   width: 175px;
-  float: right;
 }
 .panel-default {
   border-color: transparent;
@@ -878,6 +879,17 @@ h1 {
   text-align: center;
   margin-top: -27px;
 }
+.uc-product-91 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
 .uc-product-92 {
   clear: right;
   float: right;
@@ -1623,6 +1635,31 @@ h1 {
 .realproducts---nid a:focus {
   text-decoration: none;
 }
+.reviews-header {
+  background: url("http://ringsdrupal.com/sites/default/files/search-header-bg.gif") no-repeat scroll left top transparent;
+  clear: both;
+  color: #a67023;
+  font-size: 17px;
+  font-weight: normal;
+  margin-left: 18px;
+  margin-top: 25px;
+  padding: 3px 0 0 5px;
+}
+.reviews-login {
+  font-size: 9px;
+  float: right;
+  margin-right: 206px;
+  margin-top: -20px;
+}
+.reviews-button {
+  font-size: 9px;
+  float: right;
+  margin-right: 85px;
+  margin-top: -20px;
+}
+.comments-note {
+  font-size: 9px;
+}
 #copyright {
   font-size: 10px;
   width: 50%;
@@ -1654,4 +1691,10 @@ h1 {
 }
 #block-block-1 {
   float: right;
+}
+.footer {
+  border-top: 0 solid #e5e5e5;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
 }
