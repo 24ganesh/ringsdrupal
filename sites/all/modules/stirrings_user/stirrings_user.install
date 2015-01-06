@@ -1,0 +1,126 @@
+<?php
+
+/*
+* Implements hook_schema().
+*/
+
+
+function stirrings_user_schema() {
+
+    $schema['stirrings_user']= array(
+    'description' => 'The Table for Stirrings User',
+    'fields' => array(
+      'id' => array(
+      'type' => 'serial',
+      'unsigned' => TRUE,
+      'not null' => TRUE,
+      'description' => 'Primary Key:',
+      ),
+
+      'fname' => array(
+      'description' => 'First Name',
+       'type' => 'varchar',
+       'length' => 255,
+       'not null' => TRUE,
+      ),
+      'lname' => array(
+            'description' => 'Last Name',
+             'type' => 'varchar',
+             'length' => 255,
+             'not null' => TRUE,
+            ),
+      'company' => array(
+                  'description' => 'Company',
+                   'type' => 'varchar',
+                   'length' => 255,
+                   'not null' => TRUE,
+                  ),
+       'address' => array(
+               'description' => 'Address',
+                'type' => 'varchar',
+                'length' => 255,
+                'not null' => TRUE,
+               ),
+
+         'address2' => array(
+                     'description' => 'Address2',
+                      'type' => 'varchar',
+                      'length' => 255,
+                      'not null' => TRUE,
+                     ),
+
+         'city' => array(
+                   'description' => 'City',
+                            'type' => 'varchar',
+                           'length' => 255,
+                            'not null' => TRUE,
+                           ),
+          'state' => array(
+               'description' => 'state',
+                'type' => 'varchar',
+                'length' => 255,
+                'not null' => TRUE,
+               ),
+
+           'zipcode' => array(
+                          'description' => 'Zip code',
+                           'type' => 'varchar',
+                           'length' => 255,
+                           'not null' => TRUE,
+                          ),
+             'phone' => array(
+                            'description' => 'Phone',
+                             'type' => 'varchar',
+                             'length' => 255,
+                             'not null' => TRUE,
+                            ),
+          'mail' => array(
+                         'description' => 'Mail Address',
+                          'type' => 'varchar',
+                          'length' => 255,
+                          'not null' => TRUE,
+                         ),
+             'username' => array(
+                  'description' => 'Username',
+                   'type' => 'varchar',
+                   'length' => 255,
+                   'not null' => TRUE,
+                  ),
+
+             'password' => array(
+                  'description' => 'Password',
+                   'type' => 'varchar',
+                   'length' => 255,
+                   'not null' => TRUE,
+                  ),
+
+
+                   'cpassword' => array(
+                        'description' => 'Confirmed Password',
+                         'type' => 'varchar',
+                         'length' => 255,
+                         'not null' => TRUE,
+                        ),
+              'prefer' => array(
+                   'description' => 'Preferences',
+                    'type' => 'varchar',
+                    'length' => 255,
+                    'not null' => TRUE,
+                   ),
+                 ),
+        'primary key' => array('id'),
+    );
+return $schema;
+
+}
+
+/**
+*   Implements hook_uninstall().
+*
+*/
+
+
+function ajax_uninstall() {
+ variable_del('stirrings_user_default_status');
+ variable_del('stirrings_user_history');
+}

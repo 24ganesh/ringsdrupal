@@ -1,0 +1,9 @@
+
+
+name = User Register Form Module
+description = "A User Register Form Module ."
+package = Build a Module
+core = 7.x
+
+files[] = stirrings_user.module
+files[] = stirrings_user.install

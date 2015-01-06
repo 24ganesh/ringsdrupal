@@ -1,0 +1,1657 @@
+h1 {
+  color: #a67023;
+}
+#join-my-strings {
+  background: url("http://ringsdrupal.com/sites/default/files/btn-join-mystirrings.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  border: 0 none;
+  display: block;
+  height: 23px;
+  margin-top: -120px;
+  overflow: hidden;
+  padding: 0;
+  text-indent: -3000px;
+  width: 175px;
+  float: right;
+}
+.panel-default {
+  border-color: transparent;
+}
+.panel-default > .panel-heading {
+  background-color: #f5f0e6;
+  border-color: transparent;
+  color: #a67023;
+}
+.panel {
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.05);
+  margin-bottom: 0;
+}
+#block-block-10 h2 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0 35px 1px;
+  padding: 5px 1px 4px 11px;
+}
+#stirrings-user-form label {
+  text-align: center;
+  width: 60%;
+  color: #a67023;
+  font-weight: normal;
+  display: inline-flex;
+}
+#stirrings-user-form input {
+  width: 40%;
+  float: none;
+}
+#stirrings-user-form select {
+  width: 40%;
+  float: none;
+}
+#block-superfish-2 {
+  margin-top: 38px;
+}
+#block-superfish-2 ul li {
+  background: url("http://ringsdrupal.com/sites/default/files/nav-dot.gif") no-repeat scroll right 14px transparent;
+}
+#block-superfish-2 ul li a {
+  padding-top: 8px;
+}
+#block-superfish-2 ul li a:hover {
+  color: #067427;
+  outline: none;
+  text-decoration: none;
+}
+#block-superfish-2 ul li a:focus {
+  outline: none;
+  text-decoration: none;
+}
+#block-superfish-1 {
+  font-size: 0px !important;
+}
+#block-superfish-1 .sf-menu.sf-style-white .sf-sub-indicator {
+  background-image: none;
+}
+.sf-menu.sf-style-light-blue li,
+.sf-menu.sf-style-light-blue.sf-navbar {
+  background: transparent;
+}
+.sf-menu.sf-style-light-blue li:hover,
+.sf-menu.sf-style-light-blue li.sfHover,
+.sf-menu.sf-style-light-blue li.active a,
+.sf-menu.sf-style-light-blue a:focus,
+.sf-menu.sf-style-light-blue a:hover,
+.sf-menu.sf-style-light-blue a:active,
+.sf-menu.sf-style-light-blue.sf-navbar li li {
+  background: none repeat scroll 0 0 #b7d5f3;
+  color: #001020;
+}
+.sf-menu.sf-style-light-blue a {
+  border: 0px solid #b7d5f3;
+  color: #00305f;
+  padding: 0.75em 1em;
+}
+#block-sharethis-sharethis-block {
+  float: right;
+}
+.well {
+  background: none !important;
+  border: 0 solid #e3e3e3 !important;
+  border-radius: 0 !important;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.05) inset !important;
+  margin-bottom: 0 !important;
+  min-height: 0 !important;
+  padding: 5px !important;
+}
+#block-block-4 h2 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0 0 1px;
+  padding: 3px 0 3px 8px;
+}
+#block-block-4 h2 a:hover {
+  text-decoration: none;
+  color: #1da227;
+}
+#block-block-4 h3 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 4px;
+  padding: 3px 0 3px 8px;
+  text-decoration: none;
+}
+#block-block-4 h3 a:hover {
+  text-decoration: none;
+}
+#block-block-5 {
+  background: url("http://ringsdrupal.com/sites/default/files/rightsidebar-block-bg.gif") no-repeat scroll left rgba(0, 0, 0, 0);
+  width: 160px;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  height: 670px;
+}
+#block-block-5 ul {
+  color: #053b80;
+  font-size: 12px;
+  list-style-type: none !important;
+  padding-left: 8px !important;
+  padding-right: 0 !important;
+  text-decoration: none;
+}
+#block-block-5 ul a:hover {
+  text-decoration: none;
+}
+#block-block-5 h2 {
+  background: url("http://ringsdrupal.com/sites/default/files/rightsidebar-block-top-bg.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  color: #a67023;
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 10px !important;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: -10px !important;
+  margin-top: 10px;
+}
+.quicktabs_main.quicktabs-style-basic {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  background-color: #fff;
+  border-color: -moz-use-text-color #aaaaaa #aaaaaa;
+  border-image: none;
+  border-style: none;
+  clear: both;
+  padding: 10px;
+}
+#quicktabs-container-celebration_love_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-celebration_love_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+.quicktabs-tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tab-bg-left.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+}
+#quicktabs-container-watching_the_game_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-watching_the_game_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-all_about_mum_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-all_about_mum_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-birthday_hers_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-birthday_hers_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-birthday_his_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-birthday_his_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-girls_night_in_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-girls_night_in_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-weddings_showers {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-weddings_showers {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-holidays_celebrations_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-holidays_celebrations_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-cocktail_party_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-cocktail_party_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-new_year_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-new_year_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+#quicktabs-thanksgiving_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-links-bg.gif") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+  padding-top: 17px;
+  width: 624px !important;
+}
+#quicktabs-container-thanksgiving_tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-content-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  overflow-y: scroll;
+  overflow-x: scroll;
+  clear: both;
+  height: 202px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 0 2px 5px 13px;
+  position: relative;
+  width: 639px;
+  margin-top: 0px;
+  font-size: 12px;
+}
+.recipe-search-header {
+  background: url("http://ringsdrupal.com/sites/default/files/search-header-bg.gif") no-repeat scroll left top transparent;
+  clear: both;
+  color: #a67023;
+  font-size: 17px;
+  font-weight: normal;
+  margin-left: -5px;
+  margin-top: 25px;
+  padding: 0 0 0 6px;
+}
+.recipes---nid {
+  padding-bottom: 10px;
+  margin-top: 10px !important;
+  padding-left: 50px;
+}
+.recipes---nid span {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-border.gif") no-repeat scroll left bottom transparent;
+}
+.recipes---nid span a {
+  text-decoration: none;
+  margin-left: 11px;
+}
+.views-field-field-product-label {
+  margin-top: 15px;
+}
+#block-custom-search-blocks-1 {
+  background: url("http://ringsdrupal.com/sites/default/files/recipe-search-cocktails-bg.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  width: 100%;
+  padding-top: 44px;
+  margin: 0px;
+}
+#custom-search-blocks-form-1 {
+  float: left;
+  margin-left: 10px;
+  margin-top: 1px;
+  width: 65%;
+}
+#edit-submit--2 {
+  float: right;
+  margin-right: -33px;
+  margin-top: -44px;
+}
+#block-block-6 {
+  background: url("http://ringsdrupal.com/sites/default/files/recipe-finder-bg-top.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  margin: 0;
+}
+#block-block-6 .sidebar-title {
+  display: none;
+}
+#block-block-6 .recipe-finder-label {
+  clear: both;
+  color: #fff;
+  display: block;
+  font-weight: bold;
+  padding-left: 8px;
+  padding-top: 45px;
+}
+#block-block-6 .content {
+  background: url("http://ringsdrupal.com/sites/default/files/recipe-finder-bg-bottom.gif") no-repeat scroll left bottom rgba(0, 0, 0, 0);
+  margin: 0;
+  padding-bottom: 21px;
+}
+#recipe-search-finder-form {
+  margin-bottom: -16px;
+  margin-left: 30px;
+  margin-top: 25px;
+}
+.field-name-field-body a {
+  text-decoration: none;
+  font-size: 20px;
+}
+.field-items ol {
+  list-style-type: none;
+  display: inline-flex;
+}
+.field-items ol li {
+  margin-right: 9px;
+}
+#block-block-3 h2 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0 2px 1px -40px;
+  padding: 3px 0 3px 8px;
+  text-transform: uppercase;
+}
+#block-block-3 h3 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 10px 0 10px -41px;
+  padding: 0 0 0 15px;
+  text-transform: uppercase;
+}
+#block-menu-block-1 h2 {
+  background: none repeat scroll 0 0 #f5f0e6;
+  color: #a67023;
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 5px !important;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px !important;
+  margin-top: 0px;
+}
+#block-menu-block-1 ul {
+  background: none repeat scroll 0 0 #f5f0e6;
+  color: #a67023;
+}
+#block-menu-block-1 ul li a {
+  background: none repeat scroll 0 0 #f5f0e6;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 0 0 10px;
+  padding: 3px 0;
+  text-transform: uppercase;
+}
+#block-menu-block-1 ul li a:hover {
+  background: none;
+  color: #1da227;
+}
+.caret {
+  border-color: transparent;
+  border-style: none;
+  border-width: 0px 0px 0;
+  display: inline-block;
+  height: 0;
+  margin-left: 2px;
+  vertical-align: middle;
+  width: 0;
+}
+.dropdown {
+  position: relative;
+}
+.dropdown-toggle:focus {
+  outline: 0 none;
+}
+.dropdown-menu {
+  background-clip: padding-box;
+  background-color: #fff;
+  border: none;
+  border-radius: 0px;
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.176);
+  display: none;
+  float: left;
+  font-size: 14px;
+  left: 0;
+  list-style: none outside none;
+  margin: 2px 0 0;
+  min-width: 160px;
+  padding: 5px 0;
+  position: absolute;
+  top: 100%;
+  z-index: 1000;
+}
+.dropdown-menu.pull-right {
+  left: auto;
+  right: 0;
+}
+.dropdown-menu .divider {
+  background-color: #e5e5e5;
+  height: 1px;
+  margin: 9px 0;
+  overflow: hidden;
+}
+.dropdown-menu > li > a {
+  clear: both;
+  color: #053b80;
+  display: block;
+  font-size: 14px;
+  font-weight: normal !important;
+  line-height: 1.42857;
+  padding: 3px 20px;
+  white-space: nowrap;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: #f5f5f5;
+  color: #262626;
+  text-decoration: none;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  background-color: #428bca;
+  color: #fff;
+  outline: 0 none;
+  text-decoration: none;
+}
+.dropdown-menu > .disabled > a,
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+  color: #999;
+}
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+  background-color: transparent;
+  background-image: none;
+  cursor: not-allowed;
+  text-decoration: none;
+}
+#block-system-main .cocktailmixerclassname---nid {
+  background: url("http://ringsdrupal.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 25px 30px 0px;
+  width: 278px;
+}
+#block-system-main .cocktailmixerclassname---nid p {
+  color: #00000;
+  font-size: 11px;
+  margin-top: 170px;
+  width: 95%;
+}
+#block-system-main .cocktailmixerclassname---nid a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .cocktailmixerclassname---nid .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .cocktailmixerclassname---nid .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  margin-top: -5px;
+}
+#block-system-main .rimmerclassname---nid {
+  background: url("http://ringsdrupal.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 25px 30px 0px;
+  width: 278px;
+}
+#block-system-main .rimmerclassname---nid p {
+  color: #00000;
+  font-size: 11px;
+  margin-top: 170px;
+  width: 95%;
+}
+#block-system-main .rimmerclassname---nid a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .rimmerclassname---nid .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .rimmerclassname---nid .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  margin-top: -5px;
+}
+#block-system-main .giftsclassname--nid {
+  background: url("http://ringsdrupal.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 20px 15px 0px;
+  width: 278px;
+}
+#block-system-main .giftsclassname--nid p {
+  color: #00000;
+  font-size: 11px;
+  margin-top: 220px;
+  width: 95%;
+}
+#block-system-main .giftsclassname--nid a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .giftsclassname--nid .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .giftsclassname--nid .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  margin-top: 3px;
+}
+#block-system-main .baringredientsclassname---nid {
+  background: url("http://ringsdrupal.com/sites/default/files/gradient-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 17px 20px 0;
+  width: 278px;
+}
+#block-system-main .baringredientsclassname---nid p {
+  color: #00000;
+  font-size: 11px;
+  margin-top: 220px;
+  width: 95%;
+}
+#block-system-main .baringredientsclassname---nid a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .baringredientsclassname---nid .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .baringredientsclassname---nid .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  margin-top: 3px;
+}
+#block-system-main .liqueursclassname---nid {
+  background: url("http://ringsdrupal.com/sites/default/files/gradient-speckle-bg-nodots.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  margin: 0;
+  padding: 17px 20px 0;
+  width: 285px;
+}
+#block-system-main .liqueursclassname---nid p {
+  color: #00000;
+  font-size: 11px;
+  margin-top: 220px;
+  width: 90%;
+}
+#block-system-main .liqueursclassname---nid a {
+  color: #053b80;
+  text-decoration: none;
+  font-size: 11px;
+  width: 50%;
+  float: left;
+}
+#block-system-main .liqueursclassname---nid .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#block-system-main .liqueursclassname---nid .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  margin-top: 3px;
+}
+#block-uc-cart-cart {
+  background: url("http://ringsdrupal.com/sites/default/files/market-bg.gif") no-repeat scroll rgba(0, 0, 0, 0);
+  float: right;
+  height: 60px;
+  margin-right: -140px;
+  margin-top: -109px;
+  width: 100%;
+}
+#block-uc-cart-cart h2 {
+  font-size: 0px;
+}
+#block-uc-cart-cart label {
+  font-size: 0px;
+}
+#block-uc-cart-cart .cart-block-summary-items {
+  font-size: 0px;
+}
+#block-uc-cart-cart .cart-block-icon-empty {
+  background: none !important;
+}
+#block-uc-cart-cart .cart-block-summary-total {
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+  color: #a67023;
+  padding: 18px;
+}
+#block-uc-cart-cart .cart-block-arrow {
+  background: url(/sites/all/themes/rings/less/images/bullet-arrow-up.gif) no-repeat scroll center center transparent;
+  height: 0;
+  position: absolute;
+  right: 0;
+  top: 9px;
+  width: 10px;
+}
+#block-search-form {
+  width: 60%;
+  float: right;
+  margin-top: -35px;
+  margin-left: -15px;
+}
+#uc-product-add-to-cart-form-93 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-93 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+  margin-top: 4px;
+}
+.uc-product-90 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-92 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-93 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-94 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-95 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+#uc-product-add-to-cart-form-90 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-90 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+  margin-top: 4px;
+}
+#cocktails-product-views {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-product-content-bg.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  clear: both;
+  margin-top: -10px;
+  padding-bottom: 100px;
+  padding-left: 10px;
+  width: 545px;
+}
+#cocktails-tabs {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-product-links-bg.gif") no-repeat scroll left bottom rgba(0, 0, 0, 0);
+  width: 543px;
+  border-bottom: none;
+}
+#cocktails-tabs li a {
+  background: url("http://ringsdrupal.com/sites/default/files/tab-product-bg-left.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  color: #ac7a32;
+  cursor: pointer;
+  float: left;
+  font-size: 17px;
+  font-weight: normal;
+  height: 38px;
+  margin-right: 2px;
+  padding: 7px 15px 0 10px;
+  position: relative;
+  border: none;
+}
+#cocktails-tabs li a:hover {
+  border: none;
+}
+#cocktails-tabs li a:focus {
+  border: none;
+}
+#cocktails-tabs li a:active {
+  color: #053b80;
+  border: none;
+}
+#cocktailsuggested span {
+  margin-top: -10px;
+}
+#uc-product-add-to-cart-form-95 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-95 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-92 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-92 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-91 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-91 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-94 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-94 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-89 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-89 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-88 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-88 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-87 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-87 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-86 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-86 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-85 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-85 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-84 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-84 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-83 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-83 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-82 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-82 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+#uc-product-add-to-cart-form-81 .btn-success {
+  background-color: #f5f0e6;
+  border-color: #f5f0e6;
+  color: #053b80;
+}
+#uc-product-add-to-cart-form-81 .btn {
+  -moz-user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 1;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 1.42857;
+  margin-bottom: 5px;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 20%;
+  float: right;
+  margin-right: 160px;
+}
+.uc-product-89 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-88 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-87 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-86 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-85 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-84 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-83 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-82 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+.uc-product-81 {
+  clear: right;
+  float: right;
+  color: #053b80;
+  font-size: 12px;
+  font-weight: normal;
+  padding-bottom: 0;
+  margin-right: 265px;
+  text-align: center;
+  margin-top: -27px;
+}
+#rimmer-content {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-product-content-bg.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  clear: both;
+  margin-top: -12px;
+  padding-bottom: 250px;
+  padding-left: 10px;
+  width: 545px;
+}
+#rimmer-tab {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-product-links-bg.gif") no-repeat scroll left bottom rgba(0, 0, 0, 0);
+  width: 543px;
+  color: #ac7a32;
+  font-weight: bold;
+}
+#rimmer-cocktails-tabs-content {
+  margin-top: 9px;
+}
+#gifts-content {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-product-content-bg.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+  clear: both;
+  margin-top: -21px;
+  padding-bottom: 250px;
+  padding-left: 10px;
+  width: 545px;
+}
+#gifts-tab {
+  background: url("http://ringsdrupal.com/sites/default/files/tabbed-product-links-bg.gif") no-repeat scroll left bottom rgba(0, 0, 0, 0);
+  width: 543px;
+  color: #ac7a32;
+  font-weight: bold;
+}
+#node-111 .promo {
+  background: url("http://ringsdrupal.com/sites/default/files/fp-callout-bg.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  display: block;
+  height: 98px;
+  margin-bottom: 20px;
+  position: relative;
+  width: 308px;
+}
+#node-111 .promo-title {
+  color: #a67023;
+  font-size: 17px;
+  padding: 5px 0 0 10px;
+  width: 215px;
+}
+#node-111 .promo-links {
+  display: block;
+  font-size: 10px;
+  height: 25px;
+  position: absolute;
+  right: 7px;
+  top: 10px;
+  width: 58px;
+}
+#node-111 .promo-content {
+  padding: 2px 2px 0 10px;
+}
+#node-111 a:hover {
+  text-decoration: none;
+}
+#node-111 a:focus {
+  text-decoration: none;
+}
+#node-113 .promo {
+  background: url("http://ringsdrupal.com/sites/default/files/fp-callout-bg.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  display: block;
+  height: 98px;
+  margin-bottom: 20px;
+  position: relative;
+  width: 308px;
+}
+#node-113 .promo-title {
+  color: #a67023;
+  font-size: 17px;
+  padding: 5px 0 0 10px;
+  width: 215px;
+}
+#node-113 .promo-links {
+  display: block;
+  font-size: 10px;
+  height: 25px;
+  position: absolute;
+  right: 7px;
+  top: 10px;
+  width: 58px;
+}
+#node-113 .promo-content {
+  padding: 2px 2px 0 10px;
+}
+#node-113 a:hover {
+  text-decoration: none;
+}
+#node-113 a:focus {
+  text-decoration: none;
+}
+#node-114 .promo {
+  background: url("http://ringsdrupal.com/sites/default/files/fp-callout-bg.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  display: block;
+  height: 98px;
+  margin-bottom: 20px;
+  position: relative;
+  width: 308px;
+}
+#node-114 .promo-title {
+  color: #a67023;
+  font-size: 17px;
+  padding: 5px 0 0 10px;
+  width: 215px;
+}
+#node-114 .promo-links {
+  display: block;
+  font-size: 10px;
+  height: 25px;
+  position: absolute;
+  right: 7px;
+  top: 10px;
+  width: 58px;
+}
+#node-114 .promo-content {
+  padding: 2px 2px 0 10px;
+}
+#node-114 a:hover {
+  text-decoration: none;
+}
+#node-114 a:focus {
+  text-decoration: none;
+}
+#node-112 .promo {
+  background: url("http://ringsdrupal.com/sites/default/files/fp-callout-bg.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  display: block;
+  height: 98px;
+  margin-bottom: 20px;
+  position: relative;
+  width: 308px;
+}
+#node-112 .promo-title {
+  color: #a67023;
+  font-size: 17px;
+  padding: 5px 0 0 10px;
+  width: 215px;
+}
+#node-112 .promo-links {
+  display: block;
+  font-size: 10px;
+  height: 25px;
+  position: absolute;
+  right: 7px;
+  top: 10px;
+  width: 58px;
+}
+#node-112 .promo-content {
+  padding: 2px 2px 0 10px;
+}
+#node-112 a:hover {
+  text-decoration: none;
+}
+#node-112 a:focus {
+  text-decoration: none;
+}
+#node-110 .promo {
+  background: url("http://ringsdrupal.com/sites/default/files/fp-callout-bg.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  display: block;
+  height: 98px;
+  margin-bottom: 20px;
+  position: relative;
+  width: 308px;
+}
+#node-110 .promo-title {
+  color: #a67023;
+  font-size: 17px;
+  padding: 5px 0 0 10px;
+  width: 215px;
+}
+#node-110 .promo-links {
+  display: block;
+  font-size: 10px;
+  height: 25px;
+  position: absolute;
+  right: 7px;
+  top: 10px;
+  width: 58px;
+}
+#node-110 .promo-content {
+  padding: 2px 2px 0 10px;
+}
+#node-110 a:hover {
+  text-decoration: none;
+}
+#node-110 a:focus {
+  text-decoration: none;
+}
+.realproducts---nid {
+  width: 50%;
+}
+.realproducts---nid .promo {
+  background: url("http://ringsdrupal.com/sites/default/files/fp-callout-bg.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  display: block;
+  height: 98px;
+  margin-bottom: 20px;
+  position: relative;
+  width: 308px;
+}
+.realproducts---nid .promo-title {
+  color: #a67023;
+  font-size: 17px;
+  padding: 5px 0 0 10px;
+  width: 215px;
+}
+.realproducts---nid .promo-links {
+  display: block;
+  font-size: 10px;
+  height: 25px;
+  position: absolute;
+  right: 7px;
+  top: 10px;
+  width: 58px;
+}
+.realproducts---nid .promo-content {
+  padding: 2px 2px 0 10px;
+}
+.realproducts---nid a:hover {
+  text-decoration: none;
+}
+.realproducts---nid a:focus {
+  text-decoration: none;
+}
+#copyright {
+  font-size: 10px;
+  width: 50%;
+  color: #053b80;
+  margin-top: -12px;
+  margin-right: -10px;
+  float: right;
+}
+#block-menu-menu-footer-menus ul {
+  width: 100%;
+  display: inline-flex;
+}
+#block-menu-menu-footer-menus li {
+  border-right: 1px solid;
+  height: 12px;
+}
+#block-menu-menu-footer-menus li a {
+  font-size: 10px;
+  color: #053b80;
+  margin-top: -10px;
+}
+#block-menu-menu-footer-menus li a:hover {
+  background-color: transparent;
+  text-decoration: none;
+}
+#block-menu-menu-footer-menus li a:focus {
+  background-color: transparent;
+  text-decoration: none;
+}
+#block-block-1 {
+  float: right;
+}
