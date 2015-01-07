@@ -27,28 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="content.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="content.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/content.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="951" column="14" selection-start="20539" selection-end="20539" vertical-scroll-proportion="0.56702256" vertical-offset="13787" max-vertical-offset="27615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ds-2col--node-gifts.tpl.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/templates/ds-2col--node-gifts.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="8" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="13" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="2025">
+            <state line="1837" column="0" selection-start="37552" selection-end="37552" vertical-scroll-proportion="0.0" vertical-offset="26817" max-vertical-offset="27735">
               <folding />
             </state>
           </provider>
@@ -66,7 +48,25 @@
       <file leaf-file-name="footer.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/footer.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="16" selection-start="728" selection-end="728" vertical-scroll-proportion="-16.22449" vertical-offset="0" max-vertical-offset="900">
+            <state line="29" column="21" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="780">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recipes.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/recipes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="15" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="300">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Foo.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpclass/Foo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="35" selection-start="234" selection-end="234" vertical-scroll-proportion="0.22465438" vertical-offset="0" max-vertical-offset="868">
               <folding />
             </state>
           </provider>
@@ -75,7 +75,25 @@
       <file leaf-file-name="rings.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="1" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="615">
+            <state line="27" column="0" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rings.info" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/rings.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="13" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="63" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
@@ -113,8 +131,13 @@
         <option value="$PROJECT_DIR$/sites/all/themes/rings/templates/ds-2col--node-rimmer-cocktails-garnishes.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/rings/templates/ds-2col--node-gifts.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/rings/less/header.less" />
-        <option value="$PROJECT_DIR$/sites/all/themes/rings/less/footer.less" />
         <option value="$PROJECT_DIR$/sites/all/themes/rings/less/content.less" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rings/less/footer.less" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rings/rings.info" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rings/template.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rings/js/rings.js" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rings/js/recipes.js" />
+        <option value="$PROJECT_DIR$/phpclass/Foo.php" />
       </list>
     </option>
   </component>
@@ -159,7 +182,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -266,36 +288,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="less" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -348,8 +340,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpclass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,6 +367,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -393,14 +401,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2774407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3088803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -410,6 +418,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -432,34 +441,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/templates/ds-2col--node-rimmer-cocktails-garnishes.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="536" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/content.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1793" column="3" selection-start="36830" selection-end="36830" vertical-scroll-proportion="0.0" vertical-offset="26060" max-vertical-offset="27000">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/templates/ds-2col--node-gifts.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="8" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="0" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" vertical-offset="1560" max-vertical-offset="2010">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="1" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="615">
@@ -490,16 +471,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/templates/ds-2col--node-gifts.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="8" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="24" column="8" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130">
-          <folding />
-        </state>
+        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
@@ -532,9 +509,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130">
-          <folding />
-        </state>
+        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
@@ -567,9 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130">
-          <folding />
-        </state>
+        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
@@ -602,9 +575,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130">
-          <folding />
-        </state>
+        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
@@ -630,9 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130">
-          <folding />
-        </state>
+        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
@@ -658,9 +627,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130">
-          <folding />
-        </state>
+        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1665" max-vertical-offset="2130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
@@ -686,9 +653,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="2130">
-          <folding />
-        </state>
+        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="2130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
@@ -714,9 +679,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="2130">
-          <folding />
-        </state>
+        <state line="111" column="1" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="2130" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
@@ -729,13 +692,6 @@
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/templates/ds-2col--node-cocktail-mixer.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="64" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="1" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
           <folding />
         </state>
       </provider>
@@ -756,16 +712,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/templates/ds-2col--node-gifts.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="8" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="24" column="8" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/header.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="2025">
-          <folding />
-        </state>
+        <state line="20" column="13" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="2025" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/templates/page.tpl.php">
@@ -775,16 +727,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/footer.less">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/content.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="16" selection-start="728" selection-end="728" vertical-scroll-proportion="-16.22449" vertical-offset="0" max-vertical-offset="900">
+        <state line="1837" column="0" selection-start="37552" selection-end="37552" vertical-scroll-proportion="0.0" vertical-offset="26817" max-vertical-offset="27735">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/content.less">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/less/footer.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="951" column="14" selection-start="20539" selection-end="20539" vertical-scroll-proportion="0.56702256" vertical-offset="13787" max-vertical-offset="27615">
+        <state line="29" column="21" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/rings.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="13" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="63" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/rings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rings/js/recipes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="15" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpclass/Foo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="35" selection-start="234" selection-end="234" vertical-scroll-proportion="0.22465438" vertical-offset="0" max-vertical-offset="868">
           <folding />
         </state>
       </provider>

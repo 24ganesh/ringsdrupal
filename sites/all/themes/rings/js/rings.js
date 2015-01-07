@@ -23,9 +23,11 @@ Drupal.behaviors.rings = {
     document.getElementById('edit-pairing-wrapper').style.display = style;
     
 });
+
   }
 };
 })(jQuery);
+
 
   
 
