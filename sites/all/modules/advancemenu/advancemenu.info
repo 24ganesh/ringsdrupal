@@ -1,0 +1,8 @@
+;$Id$
+name = advancemenudemo
+description = A module to demo drupals menu system part 2
+package = Menu Demo Package
+core = 7.x
+
+files[] = advancemenu.module
+

@@ -43,7 +43,7 @@ function stirrings_user_form($form, &$form_state) {
   $form['name']['first'] = array(
     '#required' => TRUE,
     '#type' => 'textfield',
-    '#title' => t('Fisrt Name :'),
+    '#title' => t('First Name :'),
     '#size' => 20,
     '#maxlength' => 20,
   );
